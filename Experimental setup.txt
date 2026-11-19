@@ -1,0 +1,56 @@
+Dataset1
+
+Dataset name : 
+ppi-metago
+
+
+Dataset Link :
+https://github.com/mlbioinfolab/ppi-metago/tree/master/protein_pair
+
+
+
+
+Number of Data used : 1082
+
+Number of classes : 2
+
+
+Class Labels : [0, 1] 
+
+
+
+Number of Data in each class label :
+[0= negative interaction,  1=positive interaction]
+
+[0=541, 1=541]
+
+
+
+
+
+
+
+============================================================================
+
+
+Learning Rate : 0.0001
+
+
+Comparison papers reference :
+
+paper1:
+
+Reliable Sequenced-Based Protein-Protein Interaction Prediction Using Lempel Ziv
+Complexity and Optimized Deep Learning Model
+
+
+paper2:
+
+
+xCAPT5: protein–protein interaction prediction using deep and wide multi‑kernel
+pooling convolutional neural networks with protein language model
+
+
+
+
+

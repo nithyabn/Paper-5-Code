@@ -1,0 +1,9 @@
+
+
+
+akka nithya Bn p5---PPI prediction work.......antha madri nama amit sagu and deepak srivatsava work panirpm...athuku use pana dataset use panalama?
+
+
+
+
+https://github.com/mlbioinfolab/ppi-metago/tree/master/protein_pair
